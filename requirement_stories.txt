@@ -1,0 +1,3 @@
+1. As a registered user, I want to log in with email and password so that I can access my account dashboard.
+2. As a user, I should see a clear error message when I enter invalid credentials.
+3. As a user, I want my account to be locked after 5 failed login attempts to protect my account.
